@@ -17,10 +17,9 @@
 ### Hi, I'm David 👋
 
 - 👨‍🎓 I’m a third year computer science student at Goldsmiths, University of London. 
-- 🗃️  I’m working on my final project based on Real-time Convolutional Neural 
-Networks for Emotion Classification 
-- 🔍 Check out more about my projects <a href="https://davidcardoso.notion.site/">here</a>
-- 📫 You can reach me <a href = "mailto: dosodrac@pm.me">here</a>
+- 🗃️  I’m working on my final project based on Real-time Convolutional Neural Networks for Emotion Classification. 
+- 🔍 Check out more about my projects <a href="https://davidcardoso.notion.site/">here</a>.
+- 📫 You can reach me <a href = "mailto: dosodrac@pm.me">here</a>.
 
 ---
 
