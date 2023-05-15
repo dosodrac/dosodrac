@@ -16,10 +16,11 @@
 
 ### Hi, I'm David 👋
 
-- 👨‍🎓 I’m a graduted computer science at Goldsmiths, University of London. 
+- 👨‍🎓  I have graduated in BSc Hons Computer Science at Goldsmiths, University of London. 
+- 🔭  Currently working at [SITA](https://www.sita.aero/).
 - 🗃️  My most recent project based is a Real-time Convolutional Neural Networks for Emotion Classification. 
-- 🔍 Check out more about my projects <a href="https://davidcardoso.notion.site/">here</a>.
-- 📫 You can reach me <a href = "mailto: dosodrac@pm.me">here</a>.
+- 🔍  Check out more about my projects [here](https://davidcardoso.notion.site/David-Cardoso-s-Portfolio-8bbd0f4d32a94b01b5948b748f325b79).
+- 📫  You can reach me <a href = "mailto: dosodrac@pm.me">here</a>.
 
 ---
 
