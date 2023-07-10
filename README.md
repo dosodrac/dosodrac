@@ -19,7 +19,7 @@
 - 👨‍🎓  I have graduated in BSc Hons Computer Science at Goldsmiths, University of London. 
 - 🔭  Currently working at [SITA](https://www.sita.aero/).
 - 🗃️  My most recent project based is a Real-time Convolutional Neural Networks for Emotion Classification. 
-- 🔍  Check out more about my projects [here](https://davidcardoso.notion.site/David-Cardoso-s-Portfolio-8bbd0f4d32a94b01b5948b748f325b79).
+- 🔍  Check out more about my projects [here](https://tinyurl.com/davidcardosoportfolio).
 - 📫  You can reach me <a href = "mailto: dosodrac@pm.me">here</a>.
 
 ---
